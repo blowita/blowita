@@ -2,7 +2,7 @@
 
 🎮 I enjoy games, specially Genshin Impact, Path of Exile and retro games (SNES and PS1 era)
 
-[![Mail me](https://img.shields.io/badge/-Gmail-060606?style=flat&labelColor=0D0D0D&logo=gmail&Color=white)](mailto:brblowgames@gmail.com)&nbsp;[![My professional github](https://img.shields.io/badge/-My%204fun%20GitHub-060606?style=flat&labelColor=0D0D0D&logo=Github&Color=white)](https://github.com/jobsonita)
+[![Mail me](https://img.shields.io/badge/-Gmail-060606?style=flat&labelColor=0D0D0D&logo=gmail&Color=white)](mailto:brblowgames@gmail.com)&nbsp;[![My professional github](https://img.shields.io/badge/-My%20Professional%20GitHub-060606?style=flat&labelColor=0D0D0D&logo=Github&Color=white)](https://github.com/jobsonita)
 
 <p align="center">
   <a href="#">
