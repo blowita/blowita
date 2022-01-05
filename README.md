@@ -19,7 +19,7 @@
 ## Projects and their status:
 Project | Status | Version | Last Release | URL
 --------|--------|---------|--------------|----
-[genshin-pack](https://github.com/blowita/genshin-pack) | online | 1.0.1 | 29 Dec 2021 | https://blowita.github.io/genshin-pack/#/
+[genshin-pack](https://github.com/blowita/genshin-pack) | online | 1.0.2 | 5 Jan 2022 | https://blowita.github.io/genshin-pack/#/
 [poe-cluster-jewel-rating](https://github.com/blowita/poe-cluster-jewel-rating) | deprecated | 1.0.0 | 12 Mar 2020 | https://blowita.github.io/poe-cluster-jewel-rating/#/
 
 ### Genshin Pack
